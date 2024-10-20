@@ -1,0 +1,6 @@
+[18-07-2024 20:05:16] error: ReferenceError: QtyOrder is not defined
+
+[18-07-2024 20:05:57] error: ReferenceError: item1 is not defined
+
+[18-07-2024 20:13:48] error: ReferenceError: orderStatusId is not defined
+

@@ -1,0 +1,8 @@
+[19-07-2024 22:57:19] error: Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '.pric ivd.disc ivd.prod ivd.invo p.name p.imag FROM invoice_details ivd INNER...' at line 1
+
+[19-07-2024 22:58:24] error: Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '.pric ivd.disc ivd.prod ivd.invo p.name p.image FROM invoice_details ivd INNE...' at line 1
+
+[19-07-2024 23:01:07] error: Error: Unknown column 'ivd.pric' in 'field list'
+
+[19-07-2024 23:15:54] error: Error: Column 'id' in where clause is ambiguous
+

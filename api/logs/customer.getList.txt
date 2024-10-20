@@ -1,0 +1,8 @@
+[30-08-2024 23:24:33] error: Error: Table 're_project_node.customer' doesn't exist in engine
+
+[30-08-2024 23:24:33] error: Error: Table 're_project_node.customer' doesn't exist in engine
+
+[30-08-2024 23:24:46] error: Error: Table 're_project_node.customer' doesn't exist in engine
+
+[30-08-2024 23:24:46] error: Error: Table 're_project_node.customer' doesn't exist in engine
+
